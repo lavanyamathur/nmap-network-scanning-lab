@@ -186,6 +186,23 @@ Purpose:
 Spoofs the MAC address to appear as a different device.
 
 ---
+## Screanshots
+
+## Network Discovery
+
+![Network Discovery](Nmap discovery.png)
+
+## Port Scanning
+
+![Port Scan](Scanning ports.png)
+
+## Aggressive Scan
+
+![Aggressive Scan](aggressive scanning.png)
+
+![OS Detection](-0.png)
+
+
 
 ## Results Summary
 
