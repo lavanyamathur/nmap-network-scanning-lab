@@ -194,7 +194,7 @@ Spoofs the MAC address to appear as a different device.
 
 ## Port Scanning
 
-![Port Scan](portsscanning.png)
+![Port Scan](portscanning.png)
 
 ## Aggressive Scan
 
