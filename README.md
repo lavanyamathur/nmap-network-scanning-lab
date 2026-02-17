@@ -190,15 +190,15 @@ Spoofs the MAC address to appear as a different device.
 
 ## Network Discovery
 
-![Network Discovery](Nmap discovery.png)
+![Network Discovery](paste_Nmap-discovery.png)
 
 ## Port Scanning
 
-![Port Scan](Scanning ports.png)
+![Port Scan](paste_Scanning-ports.png)
 
 ## Aggressive Scan
 
-![Aggressive Scan](aggressive scanning.png)
+![Aggressive Scan](paste_aggressive-scanning.png)
 
 ![OS Detection](-O.png)
 
