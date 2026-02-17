@@ -200,7 +200,7 @@ Spoofs the MAC address to appear as a different device.
 
 ![Aggressive Scan](aggressive scanning.png)
 
-![OS Detection](-0.png)
+![OS Detection](-O.png)
 
 
 
